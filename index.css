@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.all-content {
+    display: flex;
+}
+
+.left-side {
+    background-color: #444E42;
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-side {
+    background-color: #F4F2E6;
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
